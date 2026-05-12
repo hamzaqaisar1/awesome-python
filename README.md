@@ -151,6 +151,7 @@ _Libraries for building AI applications, LLM integrations, and autonomous agents
   - [pydantic-ai](https://github.com/pydantic/pydantic-ai) - A Python agent framework for building generative AI applications with structured schemas.
   - [TradingAgents](https://github.com/TauricResearch/TradingAgents) - A multi-agents LLM financial trading framework.
 - Data Layer
+  - [fastembed](https://github.com/qdrant/fastembed) - A lightweight, fast, Python library built for high-throughput text embedding generation.
   - [instructor](https://github.com/567-labs/instructor) - A library for extracting structured data from LLMs, powered by Pydantic.
   - [llama-index](https://github.com/run-llama/llama_index) - A data framework for your LLM application.
   - [mem0](https://github.com/mem0ai/mem0) - An intelligent memory layer for AI agents enabling personalized interactions.
